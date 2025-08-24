@@ -48,7 +48,7 @@ for (const file of stagedFiles) {
   fs.writeFileSync(filePath, content, 'utf-8');
 
   // Añadir los cambios al staging para que el commit tenga la versión modificada
-  execSync(`git add ${file}`);
+  execSync(`git add "${file}"`);
 }
 
 console.log('✅ Imágenes y enlaces normalizados en Markdown');
