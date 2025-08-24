@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d41202181d40a529",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea71ce201585024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "136acbed5439a20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2 - Lo básico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Lo básico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7b0f0589f8edf86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a2a7865af76ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98748a743dac011",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "cdf62bda26c07c8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "56e5874f98f8bb5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f521daa0816da8b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da41fdf7364888c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6222b99974fe4272",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "23aeb585a88efdaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "39a3afbef9790844",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "337e21eca4e0dba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "136acbed5439a20f",
+  "lastOpenFiles": [
+    "Biblioteca/_index.md",
+    "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/_index.md",
+    "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/_index.md",
+    "Asignaturas/_index.md",
+    "Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/_index.md",
+    "Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/_index.md",
+    "__imagenes/__scripts/fix-images.js",
+    "__imagenes/__scripts",
+    "__scripts/fix-images.js",
+    "__scripts",
+    "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2 - Lo básico.md",
+    "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/1 - Introducción.md",
+    "__imagenes/Captura de pantalla 2025-03-30 a la(s) 8.20.43 p.m..png",
+    "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/0 - Inicio.md",
+    "__imagenes",
+    "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.pack",
+    "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.idx",
+    "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.bitmap",
+    "src/content/notas.git/objects/info/packs",
+    "src/content/notas.git/objects/info/commit-graph",
+    "src/content/README.md",
+    "src/content/Inicio.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-08-15 a la(s) 6.32.54 p.m..png",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-08-15 a la(s) 9.15.51 p.m..png",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-08-15 a la(s) 10.16.19 p.m..png",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-03-30 a la(s) 8.49.09 p.m..png",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-03-30 a la(s) 8.20.43 p.m..png",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.3.3 - Verificaciones estáticas.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.3.2 - Invariantes.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.3.1 - Excepciones.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.3 - Manejo de errores.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.2 - Namespaces.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.1 - Compilación Separada.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4 - Modularidad.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3.3 - Enumeraciones.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3.2 - Clases.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3.1 - Estructuras.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3 - Tipos definidos por el usuario.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.5 - Punteros, arreglos y bucles.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.4 - Pruebas y bucles.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.3 - Constantes.md",
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.2 - Tipos, variables y aritmética.md",
+    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 9.15.51 p.m..png",
+    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 6.32.54 p.m..png",
+    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 10.16.19 p.m..png",
+    "__imagenes/Captura de pantalla 2025-03-30 a la(s) 8.49.09 p.m..png"
+  ]
+}
