@@ -8,7 +8,7 @@ C++ es un lenguaje compilado. Para que un programa se ejecute, su texto fuente d
 
 Un programa C++ típicamente consta de muchos archivos de código fuente (comúnmente llamados **archivos fuente**).
 
-![[Captura de pantalla 2025-03-30 a la(s) 8.49.09 p.m..png]]
+![Capture](/img/Captura-de-pantalla-2025-03-30-a-las-8.49.09-p.m..png)
 
 Un programa ejecutable se crea para una combinación específica de hardware/sistema; no es portable, por ejemplo, de una Mac a una PC con Windows.
 

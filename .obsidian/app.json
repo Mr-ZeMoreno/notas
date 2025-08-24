@@ -1,5 +1,7 @@
 {
   "userIgnoreFilters": [
-    "__imagenes/"
+    "__imagenes/",
+    "__scripts/",
+    "img/"
   ]
 }

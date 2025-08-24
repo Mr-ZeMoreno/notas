@@ -2,5 +2,5 @@
 	path = src/content
 	url = https://github.com/Mr-ZeMoreno/notas
 [submodule "__imagenes"]
-	path = __imagenes
+	path = img
 	url = https://github.com/Mr-ZeMoreno/imagenes.git
