@@ -1,6 +1,6 @@
 ---
 title: Introduccion
-anterior: "[[Biblioteca/Papers/Resolver problemas a menudo consiste en idear la cadena de Markov adecuada/__index|Resumen]]"
+anterior: "[[Biblioteca/Papers/Resolver problemas a menudo consiste en idear la cadena de Markov adecuada/_index|Resumen]]"
 siguiente:
 ---
 Ha pasado un siglo desde la introducción por A. A. Markov de lo que ahora conocemos como cadenas de Markov; véase Markov (1906) y Basharian *et al*. (2004). Durante este período, las cadenas de Markov han resultado no solo ser una rica fuente de bellas matemáticas, sino también inmensamente útiles en una variedad de áreas aplicadas, como la mecánica estadística, la teoría de colas, la teoría de la información, la estadística, el reconocimiento de voz y la bioinformática, por nombrar solo algunas. La forma más común de usar cadenas de Markov en estas y otras áreas es como ingredientes en la modelización de algún tipo de dinámica temporal.

@@ -4,5 +4,6 @@
     "__scripts/",
     "img/"
   ],
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
 }
