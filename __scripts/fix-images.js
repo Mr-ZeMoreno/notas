@@ -12,7 +12,7 @@ const stagedFiles = execSync('git diff --cached --name-only', { encoding: 'utf-8
   .split('\n')
   .filter(f => f.endsWith('.md'));
 
-function sanitizeFilename(filename: string) {
+function sanitizeFilename(filename) {
   return filename
     .replace(/\s+/g, '-')          // espacios → guiones
     .replace(/[()]/g, '')          // eliminar paréntesis
