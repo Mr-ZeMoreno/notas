@@ -173,6 +173,13 @@
   },
   "active": "136acbed5439a20f",
   "lastOpenFiles": [
+    "__imagenes/Captura-de-pantalla-2025-08-15-a-las-9.15.51-p.m..png",
+    "__imagenes/Captura-de-pantalla-2025-08-15-a-las-6.32.54-p.m..png",
+    "__imagenes/Captura-de-pantalla-2025-08-15-a-las-10.16.19-p.m..png",
+    "__imagenes/Captura-de-pantalla-2025-03-30-a-las-8.49.09-p.m..png",
+    "__imagenes/Captura-de-pantalla-2025-03-30-a-las-8.20.43-p.m..png",
+    "__imagenes/__scripts/package.json",
+    "__scripts/package.json",
     "Biblioteca/_index.md",
     "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/_index.md",
     "Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/_index.md",
@@ -191,8 +198,6 @@
     "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.pack",
     "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.idx",
     "src/content/notas.git/objects/pack/pack-5b22fb24e9cb2d640dd34d092d4de16f57d0eb64.bitmap",
-    "src/content/notas.git/objects/info/packs",
-    "src/content/notas.git/objects/info/commit-graph",
     "src/content/README.md",
     "src/content/Inicio.md",
     "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/imagenes/Captura de pantalla 2025-08-15 a la(s) 6.32.54 p.m..png",
@@ -213,11 +218,6 @@
     "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3 - Tipos definidos por el usuario.md",
     "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.5 - Punteros, arreglos y bucles.md",
     "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.4 - Pruebas y bucles.md",
-    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.3 - Constantes.md",
-    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.2 - Tipos, variables y aritmética.md",
-    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 9.15.51 p.m..png",
-    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 6.32.54 p.m..png",
-    "__imagenes/Captura de pantalla 2025-08-15 a la(s) 10.16.19 p.m..png",
-    "__imagenes/Captura de pantalla 2025-03-30 a la(s) 8.49.09 p.m..png"
+    "src/content/Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.3 - Constantes.md"
   ]
 }
