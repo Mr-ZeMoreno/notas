@@ -1,7 +1,8 @@
 ---
-anterior: "[[1 - Introducción]]"
-siguiente: "[[2.1 - Hello World]]"
-dg-publish: true
+title: "Lo Básico"
+anterior: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/1 - Introducción]]"
+siguiente: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.1 - Hello World]]"
+
 ---
 C++ es un lenguaje compilado. Para que un programa se ejecute, su texto fuente debe ser procesado por un compilador, que produce archivos de objeto. Estos archivos se combinan mediante un enlazador para generar un programa ejecutable. 
 

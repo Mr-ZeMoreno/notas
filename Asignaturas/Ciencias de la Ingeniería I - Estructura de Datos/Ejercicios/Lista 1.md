@@ -1,7 +1,7 @@
 ---
-anterior: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/0 - Inicio|0 - Inicio]]"
-siguiente: "[[Lista 2]]"
-dg-publish: true
+title: "Lista 1"
+anterior: "[[Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/_index|Inicio]]"
+siguiente: "[[Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/Lista 2|Lista 2]]"
 ---
 # Ejercicio 1: Saludo
   

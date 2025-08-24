@@ -1,7 +1,8 @@
 ---
-anterior: "[[3.3 - Enumeraciones]]"
-siguiente: "[[4.1 - Compilación Separada]]"
-dg-publish: true
+title: Modularidad
+anterior: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3.3 - Enumeraciones]]"
+siguiente: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/4.1 - Compilación Separada]]"
+
 ---
 Un programa en C++ consiste en muchas partes desarrolladas por separado, como **funciones**, **tipos definidos por el usuario**, **jerarquías de clases** y **plantillas**.
 

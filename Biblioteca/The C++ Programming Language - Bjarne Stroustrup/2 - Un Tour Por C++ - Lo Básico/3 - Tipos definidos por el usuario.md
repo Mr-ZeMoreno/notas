@@ -1,7 +1,8 @@
 ---
-anterior: "[[2.5 - Punteros, arreglos y bucles]]"
-siguiente: "[[3.1 - Estructuras]]"
-dg-publish: true
+title: "Tipos definidos por el usuario"
+anterior: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/2.5 - Punteros, arreglos y bucles]]"
+siguiente: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/3.1 - Estructuras]]"
+
 ---
 Llamamos tipos integrados (_built-in types_) a aquellos que pueden construirse a partir de los tipos fundamentales, el modificador `const` y los operadores declaradores. El conjunto de tipos y operaciones integradas de C++ es amplio, pero deliberadamente de bajo nivel. Reflejan de manera directa y eficiente las capacidades del hardware convencional de las computadoras.
 

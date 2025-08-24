@@ -1,7 +1,8 @@
 ---
-anterior: "[[Lista 1]]"
-siguiente: "[[Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/0 - Inicio|0 - Inicio]]"
-dg-publish: true
+title: "Lista 2"
+anterior: "[[Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/Lista 1|Lista 1]]"
+siguiente: "[[Asignaturas/Ciencias de la Ingeniería I - Estructura de Datos/Ejercicios/_index|Inicio]]"
+
 ---
 
 #  Ejercicio 1: Potencia de un número

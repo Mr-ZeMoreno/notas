@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-siguiente:
+title: The C++ Programming Language
+siguiente: "[[Biblioteca/The C++ Programming Language - Bjarne Stroustrup/2 - Un Tour Por C++ - Lo Básico/_index|2 - Un Tour Por C++ - Lo Básico]]"
 ---
 
 Traducción no oficial del libro “The C++ Programming Language” de Bjarne Stroustrup
